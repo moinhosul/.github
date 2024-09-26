@@ -4,7 +4,7 @@
 
 Se você encontrou um problema de segurança em algum de nossos produtos, você pode enviar seu relatório por e-mail para `security[@]moinhosul.com.br`.
 
-Inclua o máximo de informações possível em seu relatório para nos ajudar a entender e resolver melhor o problema:
+Inclua o máximo de informações possíveis em seu relatório para nos ajudar a entender e resolver melhor o problema:
 
 - Onde existe um problema de segurança (ex. Fluidnow SaaS, Fluidnow self-hosted, infraestrutura, etc.)
 - O tipo de problema (ex. SQL injection, cross-site scripting, autorização ausente, etc.)
