@@ -12,3 +12,9 @@ Inclua o máximo de informações possível em seu relatório para nos ajudar a 
 - Qualquer configuração especial necessária para reproduzir o problema
 - Instruções passo a passo para reproduzir o problema
 - Prova de conceito ou código de exploração, se disponível
+
+Se você precisar criptografar informações confidenciais enviadas a nós, use [nossa chave PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/659B5520E288F6BFE4629D610304FD3EF80401EA):
+
+```
+659B 5520 E288 F6BF E462  9D61 0304 FD3E F804 01EA
+```
